@@ -28,3 +28,8 @@ RestfulTool
 
 Sequence Diagram
 方法调用流程图，可以作为优化代码的参考，付费可以到处图片，不付费就只能使用基础功能
+
+
+IDE Eval Resetter 
+支持到 2021.2.2
+后续版本需要使用 ja-netfilter
